@@ -2,6 +2,9 @@
 
 Scientific Calculator App using java. API version 29.
 
+## fuctionality
+- Calculator to solve complex (with multiple operators) mathematical expression/equation
+- Store and retrieve last 10 expressions/equations using SharedPreferences
 
 ## Screenshots
 
